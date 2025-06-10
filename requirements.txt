@@ -1,0 +1,7 @@
+fastapi==0.95.2  # Web framework for building APIs
+uvicorn==0.22.0  # ASGI server for FastAPI
+requests==2.31.0  # HTTP library for making API calls
+python-dotenv==1.0.0  # Load environment variables from .env files
+pydantic==1.10.9  # Data validation and settings management
+openai==0.27.8  # Specify a compatible version of the OpenAI library
+
